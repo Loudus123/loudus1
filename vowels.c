@@ -14,7 +14,7 @@ printf("the number is vowels");
 else if(n=='u')
 printf("the number is vowels");
 else 
-printf("the number is consonant");
+printf("the number  consonant");
 
 	return 0;
 }
