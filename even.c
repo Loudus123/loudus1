@@ -3,7 +3,7 @@
 void main()
 {
 int i=6;
-if(n%2==0)
+if(i%2==0)
 printf("the number is even");
 else
 printf("the number is odd");
